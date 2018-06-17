@@ -1,0 +1,12 @@
+This project is part of a series of the Unity "Piscine" projects at School 42.
+
+This one is day 01,
+The objective of this day is to learn how 2D physics, tags, layers and scenes work.
+
+Update for my book because elements were not in the original version:
+- UI controls.
+- The levels of the doors and turrets.
+- The teleporter that is fixed.
+- R for restart works differently.
+
+On this day I was rated 70/100.

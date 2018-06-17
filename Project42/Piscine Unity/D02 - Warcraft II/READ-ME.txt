@@ -1,0 +1,18 @@
+This project is part of a series of the Unity "Piscine" projects at School 42.
+
+This one is day 02,
+The objective of this day is to learn how 2D physics, tags, layers and scenes work.
+
+Update for my book because elements were not in the original version:
+- The possibility of attack building and orcs.
+- animation attack and death orc, and dead building.
+- animation when buildings are damaged.
+- sound when a team attack a player, sound when he destroy a building, sound when a unit is attacked.
+- when a unit attack a unit, he chases him.
+- IA attack a command post or others building and humans if they are nearest.
+- IA defend their command post when he is attacked.
+- if a building is destroyed then the spawning troops is increased.
+- the game can be finished.
+- R for restart.
+
+On this day I was rated 50/100.

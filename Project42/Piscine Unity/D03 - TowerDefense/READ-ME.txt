@@ -1,0 +1,18 @@
+This project is part of a series of the Unity "Piscine" projects at School 42.
+
+This one is day 03,
+The objective of this day is to learn the advanced inputs and 2D GUI.
+
+Update for my book because elements were not in the original version:
+- system of speed pause,x1,x2,x4 works better.
+- the score in the end of the level works better.
+- when we start the game we can click on Play to begin.
+- fixed : we can pay for a tower with its cost of energy equal to the cost we have left.
+- Upgrades with his UI with right click on a tower.
+- Shortcut 1,2,3 and left click to put a tower.
+- Fireball to destroy everything on the map with a time to reload.
+- Shortcut space and leftclick to destroy everything with the fireball.
+- Cursor disappear when we take a tower or the fireball.
+- Beautiful Ending Game.
+
+On this day I was rated 60/100.

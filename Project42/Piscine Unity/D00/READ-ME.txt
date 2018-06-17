@@ -1,0 +1,11 @@
+This project is part of a series of the Unity "Piscine" projects at School 42.
+
+This one is day 00,
+The goal of this day is to learn how Assets, GameObject, Behavior, Inputs, and Transform work.
+Update for my book because elements were not in the original version:
+- UI controls.
+- UI Score.
+- Escape to leave.
+- FlappyBird background has been resized.
+
+On this day I was rated 100/100.
