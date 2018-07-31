@@ -1,0 +1,16 @@
+This project is part of a series of the Unity "Piscine" projects at School 42.
+
+This one is rush 00,
+This project is a game jam equivalent, make a hotline miami in 2 days with an another student.
+
+Update for my book because elements were not in the original version:
+
+- controls in Menu
+- key escape in game to return menu.
+- modification of UI
+- enemis patrol.
+- ennemi shoots repaired.
+- enemi : modification to the detection view.
+- enemi : detection of sounds
+
+On this day I was rated 107/100.(with 7pts in bonus)

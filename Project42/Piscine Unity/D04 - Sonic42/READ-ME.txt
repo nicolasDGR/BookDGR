@@ -1,0 +1,37 @@
+This project is part of a series of the Unity "Piscine" projects at School 42.
+
+This one is day 04,
+The objective of this day is to learn playerprefs and coroutines.
+
+Update for my book because elements were not in the original version:
+- UI redesigned because it was poor the latest time.
+- Save with cache to register level unlocked, score, rings, lifes.
+- levels musics are select with the path choosing.
+- reset the game if there are no more lives.
+- Adding level 2 to assimilate:
+	- holes and picks
+	- the inverted rebound when he is hit
+	- invinsibility when it's flashing
+	- the loss of rings (half of what we had)
+	- the throw of rings with the blinks.
+- Adding level 3 to assimilate:
+	- all bumper directions + their script to bounce
+	- 3 differents TV to explode.
+	- modification when we are hit with a shield
+	- modification of Sonic's speed max with boots
+	- modification of rings score.
+- Adding level 4 to assimilate:
+	- 3 types of enemies.
+	- enemy who shoots regularly, can be kill.
+	- enemy who keeps mobile, can not be kill.
+	- enemy who moves, can be kill but only in a certain time.
+	- capacity to kill enemies only if Sonic is rolling or is jumping and rolling in same time.
+	- add a tunnel not required in the subject but i wanted to do this because it's fun.
+	- add a score when we kill an enemiy
+- Adding Boss level:
+	- 8 shots to kill the boss
+	- the pendulum is faster when the boss is hitting and when he is low life.
+	- cinematic of Boss death.
+
+
+On this day I was rated 30/100.
