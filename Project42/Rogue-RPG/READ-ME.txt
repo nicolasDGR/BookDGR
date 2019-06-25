@@ -1,0 +1,21 @@
+Rogue-RPG is the second open project at School 42.
+
+Kill monsters to gain "essence"
+
+Chop the tree and mine the rocks to get resources.
+
+Build houses to access a upgrade menu for your dwarf.
+
+The more monsters you have, the more your slow down.
+
+Access to the dungeon to kill the boss.
+
+Project done with 3 people.
+Role of each people :
+
+- project manager, UI developper, Animation 2D		M.Mole
+- spawner optimisation, 3D modeler, Boss Battle		my part
+- magic developper					F.De la Rivière
+
+On this day We were rated 115/100.(+15points bonus) 
+... of memory (i can't tell because I no longer have access to my notes.)

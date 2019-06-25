@@ -1,3 +1,7 @@
 CFC is a little application on android for the french association "Club Français du Cauchois".
 
-Malgore (or Wolfgang first name) is a big project of survival and strategic game. It's only a prototype for now.
+CollectionDGR is a personnal application for a research of micromachines.
+
+Wolfgang is a prototype of survival and strategic game.
+
+Test-Hypersuit is a project that allowed me to be recruited as an internship at Hypersuit

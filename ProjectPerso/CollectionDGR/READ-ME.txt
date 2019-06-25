@@ -1,0 +1,10 @@
+CollectionDGR is a personnal application for a research of micromachines.
+
+UI Interface of micromachines
+NO DATABASE: Project reported
+
+Constraints: on mobile phone with a low stockage, no internet access.
+
+The application was dimensionned for PC
+
+There is a search error with wheels and colors because with some cars, they may have several choices. 

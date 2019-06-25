@@ -1,0 +1,8 @@
+Test-Hypersuit is a project that allowed me to be recruited as an internship at Hypersuit
+
+Project done in 4 days.
+
+Condition:
+- hallway and the main hall is in space
+- representation of a shop or a museum
+- 3 interactions possibles

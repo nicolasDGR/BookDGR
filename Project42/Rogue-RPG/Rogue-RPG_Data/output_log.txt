@@ -1,0 +1,54 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 610M          (ID=0x105a)
+    Vendor:   NVIDIA
+    VRAM:     978 MB
+    Driver:   10.18.13.6143
+Default GameObject Tag: Player already registered
+ 
+(Filename:  Line: 93)
+
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Nicolas\Desktop\EXE\ProjectDGR\open project II-RPG\Rogue-RPG_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Nicolas\Desktop\EXE\ProjectDGR\open project II-RPG\Rogue-RPG_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Nicolas\Desktop\EXE\ProjectDGR\open project II-RPG\Rogue-RPG_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Nicolas\Desktop\EXE\ProjectDGR\open project II-RPG\Rogue-RPG_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Nicolas\Desktop\EXE\ProjectDGR\open project II-RPG\Rogue-RPG_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Nicolas\Desktop\EXE\ProjectDGR\open project II-RPG\Rogue-RPG_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Nicolas\Desktop\EXE\ProjectDGR\open project II-RPG\Rogue-RPG_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Nicolas\Desktop\EXE\ProjectDGR\open project II-RPG\Rogue-RPG_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Nicolas\Desktop\EXE\ProjectDGR\open project II-RPG\Rogue-RPG_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Nicolas\Desktop\EXE\ProjectDGR\open project II-RPG\Rogue-RPG_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.232 seconds
+Platform assembly: C:\Users\Nicolas\Desktop\EXE\ProjectDGR\open project II-RPG\Rogue-RPG_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Nicolas\Desktop\EXE\ProjectDGR\open project II-RPG\Rogue-RPG_Data\Managed\System.dll (this message is harmless)
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 4.261244 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1e7c -> priority: 1 
+  Thread -> id: 1a40 -> priority: 1 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 14.857293 ms
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 612)
+
+
+Unloading 302 unused Assets to reduce memory usage. Loaded Objects now: 2323.
+Total: 11.622360 ms (FindLiveObjects: 0.344430 ms CreateObjectMapping: 0.403545 ms MarkObjects: 2.492704 ms  DeleteObjects: 8.380446 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 55.380169 ms
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 612)
+
+
+Unloading 602 unused Assets to reduce memory usage. Loaded Objects now: 6283.
+Total: 32.592773 ms (FindLiveObjects: 0.868259 ms CreateObjectMapping: 0.663407 ms MarkObjects: 13.379815 ms  DeleteObjects: 17.679649 ms)
+
