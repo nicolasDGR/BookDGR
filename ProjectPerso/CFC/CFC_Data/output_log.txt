@@ -1,0 +1,35 @@
+Mono path[0] = 'F:/CFC_Data/Managed'
+Mono path[1] = 'F:/CFC_Data/Mono'
+Mono config path = 'F:/CFC_Data/Mono/etc'
+PlayerConnection initialized from F:/CFC_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55365
+Multi-casting "[IP] 10.56.42.166 [Port] 55365 [Flags] 2 [Guid] 2256448935 [EditorId] 1509103454 [Version] 1048832 [Id] WindowsPlayer(Nicolas-PC) [Debug] 0" to [225.0.0.222:54997]...
+PlayerConnection already initialized - listening to [10.56.42.166:55365]
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 610M          (ID=0x105a)
+    Vendor:   NVIDIA
+    VRAM:     978 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\CFC_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\CFC_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\CFC_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\CFC_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\CFC_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading F:\CFC_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: F:\CFC_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\CFC_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: F:\CFC_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading F:\CFC_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.199 seconds
+Platform assembly: F:\CFC_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: F:\CFC_Data\Managed\System.dll (this message is harmless)
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.857250 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 19a4 -> priority: 1 

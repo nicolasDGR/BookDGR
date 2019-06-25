@@ -1,0 +1,15 @@
+Elemetal Racer is the first open project at School 42.
+
+Choose any vehicule and MOSTLY choose "test42" as a map.
+
+Project done with 5 people. Many things have been done but they are not necessarily visible. Multiplayer mode is a prototype.
+Role of each people :
+
+- project manager, level designer and 3D modeler	my part
+- network developper					M.Mole
+- IA developper						T.Lloancy
+- control and physic developper				F.De la Rivière
+- music and sound designer				R.Jaguin
+
+On this day We were rated 117/100.(+17points bonus) 
+... of memory (i can't tell because I no longer have access to my notes.)

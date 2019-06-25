@@ -1,3 +1,5 @@
 Piscine Unity is a series of initiatory projects on Unity at School 42.
 
 In-the-Shadow is a project at School 42.
+
+Elemetal Racer is the first open project at School 42. 

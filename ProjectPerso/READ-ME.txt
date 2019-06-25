@@ -1,0 +1,3 @@
+CFC is a little application on android for the french association "Club Français du Cauchois".
+
+Malgore (or Wolfgang first name) is a big project of survival and strategic game. It's only a prototype for now.
